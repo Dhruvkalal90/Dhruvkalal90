@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on real life projects
 - ⚡ Fun fact: You can call me DK
   
-👩🏻‍💻 My recent projects:-<br>
+👨🏻‍💻 My recent projects:-<br>
   Face recognition authentication system -GUI,PYTHON<br>
   Skira-A socialMedia App- DJANGO,WEBDEV<br>
   Asyncronous chating app -GUI,PYTHON<br>
